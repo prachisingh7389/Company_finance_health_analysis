@@ -22,9 +22,6 @@ This project aims to provide a robust framework for financial data preparation, 
 - Calculation of key financial ratios (e.g., liquidity, profitability, efficiency)
 - Data transformation and formatting for analysis
 
-## Data Source
-
-Source - 
 
 ## Features/ highlights 
 
@@ -81,5 +78,5 @@ Business Impacts:
 5. Increased efficiency: Streamlined financial processes and improved productivity, enabling the organization to achieve more with fewer resources.
 
  ##  Screenshot/Demo: 
-
+Link:https://github.com/prachisingh7389/Company_finance_health_analysis/blob/main/cleaned%20company%20financial%20data.png
  
