@@ -15,6 +15,9 @@ This project aims to provide a robust framework for financial data preparation, 
 - Calculate key financial ratios and metrics
 - Analyze company financial health and performance
 
+  ## Tech Stack Used:
+    - Power BI 
+
 ## Key Features
 
 - Data cleaning and standardization
